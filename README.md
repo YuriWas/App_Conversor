@@ -1,3 +1,6 @@
+## Estrutura do projeto
+
+```text
 Dev_youtube/
 ├── App.js
 ├── app.json
